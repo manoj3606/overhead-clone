@@ -8,7 +8,7 @@ const Navbar = () => {
   const navData = [
     {
       title: "Home",
-      path: "/Home",
+      path: "/",
     },
     {
       title: "Past Work",
