@@ -18,11 +18,11 @@ function App() {
    <BrowserRouter >
    <Navbar/>
    <Routes>
-    <Route path="/" exact element={<Home/>}/>
-    <Route path="/pastwork" element={<PastWork/>}/>
-    <Route path="/Services" element={<Services/>}/>
-    <Route path="/Testimonials" element={<Testimonials/>}/>
-    <Route path="/ContactUs" element={<ContactUs/>}/>
+    <Route path="/overhead-clone/" exact element={<Home/>}/>
+    <Route path="/overhead-clone/pastwork" element={<PastWork/>}/>
+    <Route path="/overhead-clone/Services" element={<Services/>}/>
+    <Route path="/overhead-clone/Testimonials" element={<Testimonials/>}/>
+    <Route path="/overhead-clone/ContactUs" element={<ContactUs/>}/>
    </Routes>
 
    <Footer/>

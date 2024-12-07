@@ -8,23 +8,23 @@ const Navbar = () => {
   const navData = [
     {
       title: "Home",
-      path: "/",
+      path: "/overhead-clone/",
     },
     {
       title: "Past Work",
-      path: "/Pastwork",
+      path: "/overhead-clone/Pastwork",
     },
     {
       title: "Services",
-      path: "/Services",
+      path: "/overhead-clone/Services",
     },
     {
       title: "Testimonials",
-      path: "/Testimonials",
+      path: "/overhead-clone/Testimonials",
     },
     {
       title: "Contact Us",
-      path: "/ContactUs",
+      path: "/overhead-clone/ContactUs",
     },
   ];
   return (
